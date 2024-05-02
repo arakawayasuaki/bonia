@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "bonias",
+  "info": {
+    "singularName": "bonia",
+    "pluralName": "bonias",
+    "displayName": "bonia"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "test": {
+      "type": "blocks"
+    }
+  }
+}
